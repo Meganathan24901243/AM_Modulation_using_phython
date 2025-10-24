@@ -63,6 +63,8 @@ Tabular Column
 
 
 Calculation
+
+
 ma (Theory) = am/ac = 6/12=0.5
 ma(Practical) = (Emax-Emin)/(Emax+Emin) =12/24=0.5
 
