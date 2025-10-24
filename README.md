@@ -4,7 +4,7 @@
 Aim
 
 
-To implement and analyze amplitude modulation (FM) using Python's NumPy and Matplotlib libraries. 
+To implement and analyze amplitude modulation (AM) using Python's NumPy and Matplotlib libraries. 
 
 Apparatus Required
 
@@ -27,7 +27,7 @@ Algorithm
 2.	Generate Time Axis: Create a time vector for the signal duration.
 3.	Generate Message Signal: Define the message signal as a cosine wave.
 4.	Compute the Integral of the Message Signal: Calculate the integral of the message signal over time.
-5.	Generate FM Signal: Apply the AM modulation formula to obtain the modulated signal.
+5.	Generate AM Signal: Apply the AM modulation formula to obtain the modulated signal.
 6.	Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 Program
