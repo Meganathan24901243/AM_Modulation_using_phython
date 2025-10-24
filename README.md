@@ -55,12 +55,15 @@ plt.show()
 
 Output Waveform
 
+
+
 <img width="798" height="590" alt="image" src="https://github.com/user-attachments/assets/7eefeb23-bf37-46e2-b6c9-bcc1a891668c" />
 
 Tabular Column
 
-![WhatsApp Image 2025-10-24 at 17 18 21_a8b94635](https://github.com/user-attachments/assets/aa4746e7-4964-4c11-9347-ab1e7ebaf8c3)
 
+
+![WhatsApp Image 2025-10-24 at 17 17 17_a8b94635](https://github.com/user-attachments/assets/aa4746e7-4964-4c11-9347-ab1e7ebaf8c3)
 
 Calculation
 
